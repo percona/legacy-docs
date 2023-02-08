@@ -1,3 +1,3 @@
 ## Legacy documentation
 
-![Percona logo](docs/_static/percona-logo-color.png)
+![Percona logo](docs/_images/percona-logo-color.png)
