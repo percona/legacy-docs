@@ -87,7 +87,7 @@ extra:
 
 nav:
   - Home: index.md
-  - Product 1:
+  - Percona Platform:
       - pdf
       - pdf
       - pdf
@@ -95,7 +95,7 @@ nav:
       - pdf
       - pdf
       - pdf
-  - Product 2:
+  - Percona Monitoring and Management:
       - pdf
       - pdf
       - pdf
@@ -103,7 +103,7 @@ nav:
       - pdf
       - pdf
       - pdf
-  - Product 3:
+  - Percona Distribution for MySQL:
       - pdf
       - pdf
       - pdf
@@ -111,7 +111,7 @@ nav:
       - pdf
       - pdf
       - pdf
-  - Product 4:
+  - Percona Server for MySQL:
       - pdf
       - pdf
       - pdf
@@ -119,7 +119,7 @@ nav:
       - pdf
       - pdf
       - pdf
-  - Product 5:
+  - Percona XtraDB Cluster:
       - pdf
       - pdf
       - pdf
@@ -127,7 +127,7 @@ nav:
       - pdf
       - pdf
       - pdf
-  - Product 6:
+  - Percona XtraBackup:
       - pdf
       - pdf
       - pdf
@@ -135,7 +135,7 @@ nav:
       - pdf
       - pdf
       - pdf
-  - Product 7: 
+  - ProxySQL Admin Utilities: 
       - pdf
       - pdf
       - pdf
@@ -143,5 +143,91 @@ nav:
       - pdf
       - pdf
       - pdf
-
-
+  - Percona Toolkit: 
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+  - Percona Distribution for MongoDB: 
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+  - Percona Server for MongoDB: 
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+  - Percona Server for MongoDB: 
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+  - Percona Backup for MongoDB:
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+  - Percona Distribution for PostgreSQL:
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+  - pg_stat_monitor:
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+  - Percona Operator for MySQL based on Percona Server for MySQL:
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+  - Percona Operators for MySQL Based on Percona XtraDB Cluster:
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+  - Percona Operators for MongoDB:
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+  - Percona Operators for PostgreSQL:
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
+      - pdf
