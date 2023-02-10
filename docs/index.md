@@ -1,3 +1,3 @@
 # Legacy documentation 
 
-Here you can find the documentation in PDF format for legacy versions of Percona products. Note that Percona does not update the legacy documentation. Upgrade your products to the most recent versions to receive documentation support.
+You should upgrade to the most recent version for documentation support. The legacy documentation is available in a PDF format for those versions that have reached their end-of-life. Percona does not update legacy documentation.
