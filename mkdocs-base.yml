@@ -9,7 +9,6 @@ repo_name: percona/legacy-docs
 repo_url: https://github.com/percona/legacy-docs
 edit_uri: edit/main/docs/
 
-
 use_directory_urls: false
 
 # Theme setup
@@ -141,6 +140,7 @@ nav:
         - Percona Distribution for PostgreSQL 12.11: percona-distribution-for-postgresql/PerconaDistributionForPostgreSQL-12.11.pdf
         - Percona Distribution for PostgreSQL 11.16: percona-distribution-for-postgresql/PerconaDistributionForPostgreSQL-11.16.pdf
   - Kubernetes Operators:
+      - none
       - Percona Operator for MySQL based on Percona XtraDB Cluster 1.11.0: percona-distribution-for-mysql-operator/percona-kubernetes-operator-for-pxc-1.11.0.pdf
       - Percona Distribution for MySQL Operator 1.10.0: percona-distribution-for-mysql-operator/percona-distribution-mysql-operator-1.10.0.pdf
       - Percona Distribution for MySQL Operator 1.9.0: percona-distribution-for-mysql-operator/percona-distribution-mysql-operator-1.9.0.pdf
