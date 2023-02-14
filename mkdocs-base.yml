@@ -88,20 +88,7 @@ extra:
 nav:
   - Home: index.md
   - Percona Monitoring and Management:
-      - Percona Monitoring and Management 2.32.0: percona-monitoring-and-management/PerconaMonitoringAndManagement-2.32.0.pdf
-      - Percona Monitoring and Management 2.31.0: percona-monitoring-and-management/PerconaMonitoringAndManagement-2.31.0-min.pdf
-      - Percona Monitoring and Management 2.30.0: percona-monitoring-and-management/PerconaMonitoringAndManagement-2.30.0.pdf
-      - Percona Monitoring and Management 2.29.0: percona-monitoring-and-management/PerconaMonitoringAndManagement-2.29.0.pdf
-      - Percona Monitoring and Management 2.28.0: percona-monitoring-and-management/PerconaMonitoringAndManagement-2.28.0.pdf
-      - Percona Monitoring and Management 2.27.0: percona-monitoring-and-management/PerconaMonitoringAndManagement-2.27.0.pdf
-      - Percona Monitoring and Management 2.26.0: percona-monitoring-and-management/PerconaMonitoringAndManagement-2.26.0.pdf
-      - Percona Monitoring and Management 2.4.0: percona-monitoring-and-management/PerconaMonitoringAndManagement-2.4.0.pdf
-      - Percona Monitoring and Management 2.3.0: percona-monitoring-and-management/PerconaMonitoringAndManagement-2.3.0.pdf
-      - Percona Monitoring and Management 2.2.2: percona-monitoring-and-management/PerconaMonitoringAndManagement-2.2.2.pdf
-      - Percona Monitoring and Management 2.2.1: percona-monitoring-and-management/PerconaMonitoringAndManagement-2.2.1.pdf
-      - Percona Monitoring and Management 2.2.0: percona-monitoring-and-management/PerconaMonitoringAndManagement-2.2.0.pdf
-      - Percona Monitoring and Management 2.1.0: percona-monitoring-and-management/PerconaMonitoringAndManagement-2.1.0.pdf
-      - Percona Monitoring and Management 2.0.1: percona-monitoring-and-management/PerconaMonitoringAndManagement-2.0.1.pdf 
+      - Percona Monitoring and Management 1.17.5: percona-monitoring-and-management/PerconaMonitoringAndManagement-1.17.5.pdf
   - MySQL Software:
       - Percona Server for MySQL:
         - Percona Server for MySQL 5.6: percona-server-for-mysql/Percona-Server-for-MySQL-5.6.pdf
