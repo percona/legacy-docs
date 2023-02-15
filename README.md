@@ -2,4 +2,8 @@
 
 ![Percona logo](docs/_images/percona-logo-color.png)
 
-In this repository you can find the documentation in PDF format for end-of-life versions of Percona products. Note that Percona does not update the archived documentation. Upgrade your products to the most recent versions to receive documentation support.
+In this repository, we provide the legacy documentation in a PDF format for the versions that have reached their end-of-life. Percona does not update legacy documentation. You should upgrade to the most recent version for documentation support. 
+
+## License
+
+The documentation is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
