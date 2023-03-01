@@ -89,6 +89,8 @@ nav:
   - Home: index.md
   - Percona Monitoring and Management:
       - Percona Monitoring and Management 1.17.5: percona-monitoring-and-management/PerconaMonitoringAndManagement-1.17.5.pdf
+  - Percona Monitoring Plugins:
+      - Percona Monitoring Plugins 1.1.8: percona-monitoring-plugins/Percona-Monitoring-Plugins-1.1.8.pdf
   - MySQL Software:
       - Percona Server for MySQL:
         - Percona Server for MySQL 5.6: percona-server-for-mysql/Percona-Server-for-MySQL-5.6.pdf
