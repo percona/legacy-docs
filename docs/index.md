@@ -1,6 +1,6 @@
 # Legacy documentation 
 
-You should upgrade to the most recent version for documentation support. Legacy documentation includes outdated documentation and documentation for the versions that have reached their end-of-life. We provide the legacy documentation in a PDF format. Percona does not update legacy documentation.
+You should upgrade to the most recent version for documentation support. The documentation for product versions that are either outdated or have reached their end-of-life is available in a PDF format. Percona does not update this documentation. 
 
 Use the left sidebar to select the following:
 
