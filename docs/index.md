@@ -8,5 +8,5 @@ Use the left sidebar to select the following:
 * Product name
 * Outdated or end-of-life version
 
-Then you can download the PDF for the required version.
+Then download the PDF for that version.
 
