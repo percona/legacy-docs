@@ -2,7 +2,7 @@
 
 ![Percona logo](docs/_images/percona-logo-color.png)
 
-In this repository, we provide the legacy documentation in a PDF format for the versions that have reached their end-of-life. Percona does not update legacy documentation. You should upgrade to the most recent version for documentation support. 
+In this repository, we provide the legacy documentation in a PDF format for the versions that are either outdated or have reached their end-of-life. Percona does not update legacy documentation. You should upgrade to the most recent version for documentation support. 
 
 ## License
 
