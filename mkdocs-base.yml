@@ -88,7 +88,10 @@ extra:
   consent:
     title: Cookie consent
     description: >- 
-      We use cookies to recognize your repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find what they're searching for. With your consent, you're helping us to make our documentation better.
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better. Read more about <a class="reference external" href="https://www.percona.com/20180524-cookie-policy" target="_blank">Percona Cookie Policy</a>.
 
 nav:
   - Home: index.md
@@ -142,6 +145,9 @@ nav:
         - Percona Operator for PostgreSQL 1.2.0: percona-operator-for-postgresql/PerconaOperatorPostgreSQL-1.2.0.pdf
         - Percona Distribution for PostgreSQL Operator 1.1.0: percona-operator-for-postgresql/PerconaDistributionPostgreSQLOperator-1.1.0.pdf
         - Percona Distribution for PostgreSQL Operator 1.0.0: percona-operator-for-postgresql/PerconaDistributionPostgreSQLOperator-1.0.0.pdf
+  - Reference:
+    - copyrighting-and-licensing.md
+    - trademark-policy.md
 
 
 
