@@ -145,6 +145,8 @@ nav:
         - Percona Operator for PostgreSQL 1.2.0: percona-operator-for-postgresql/PerconaOperatorPostgreSQL-1.2.0.pdf
         - Percona Distribution for PostgreSQL Operator 1.1.0: percona-operator-for-postgresql/PerconaDistributionPostgreSQLOperator-1.1.0.pdf
         - Percona Distribution for PostgreSQL Operator 1.0.0: percona-operator-for-postgresql/PerconaDistributionPostgreSQLOperator-1.0.0.pdf
+  - Playback:
+      - Playback Release 0.7: playback/Playback.pdf
   - Reference:
     - copyrighting-and-licensing.md
     - trademark-policy.md
