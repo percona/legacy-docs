@@ -3,7 +3,6 @@
 site_name: Percona legacy documentation
 site_description: Documentation
 site_author: Percona LLC
-copyright: Percona LLC, &#169; 2023
 
 repo_name: percona/legacy-docs
 repo_url: https://github.com/percona/legacy-docs
@@ -48,6 +47,10 @@ extra_css:
   - https://unicons.iconscout.com/release/v3.0.3/css/line.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css
   - css/percona.css
+
+#Copyright
+copyright: >
+  "<a href='https://www.percona.com/about'>Percona LLC</a> and/or its affiliates &copy; 2009-<script>document.write(new Date().getFullYear())</script> — <a href='#__consent'>Cookie Consent</a>"
 
 markdown_extensions:
   attr_list: {}
