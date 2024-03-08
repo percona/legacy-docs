@@ -1,18 +1,10 @@
 {# Import the theme's layout. #}
 {% extends "base.html" %}
 
-{%- macro relbar2 () %}
-<div class="md-relbar2__inner md-grid">
-<div class="md-content">
-  <article class="md-content__inner md-typeset" role="main">    
-    <h3>Contact us </h3>
-       <p>For free technical help, visit the Percona <a class="reference external" href="https://forums.percona.com" target="_blank">Community Forum</a>.<br>
-        <p>To report bugs or submit feature requests, open a <a class="reference external" href="https://jira.percona.com/projects/" target="_blank">JIRA</a> ticket.<br>
-         <p>For paid <a class="reference external" href="https://www.percona.com/services/support"> support </a> and <a class="reference external" href="https://www.percona.com/services/managed-services"> managed </a> or <a class="reference external" href="https://www.percona.com/services/consulting">consulting services </a>, contact <a class="reference external" href="https://www.percona.com/about-percona/contact" target="_blank">Percona Sales</a>.</p>
- </article>
-</div>
-</div>
-{%- endmacro %}
+{% block scripts %}
+<script src="https://cmp.osano.com/Azqe5vTyLOSbN3OuT/49ad85b5-0418-4794-ab81-7599dddd534c/osano.js"></script>
+{{ super() }}
+{% endblock %}
               
                {% block extrahead %}
                {{ super() }}
@@ -28,17 +20,32 @@
                  <meta property="og:image" content="https://docs.percona.com/legacy-documentation/_images/doc-legacy.png" />
                {% endblock %}
               
-              {% block analytics %}
-              <!-- Google Tag Manager -->
-              <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-              new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-              'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-              })(window,document,'script','dataLayer','GTM-WBVF48V');</script>
-              <!-- End Google Tag Manager -->
-
-              <!-- Google Tag Manager (noscript) -->
-              <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBVF48V"
-              height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-              <!-- End Google Tag Manager (noscript) -->
-              {% endblock %}
+               {% block site_nav %}
+               {% if nav %}
+                 {% if page.meta and page.meta.hide %}
+                   {% set hidden = "hidden" if "navigation" in page.meta.hide %}
+                 {% endif %}
+                 <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" {{ hidden }}>
+                   <div class="md-sidebar__scrollwrap">
+                     <div class="md-sidebar__inner">
+                       {% include "partials/nav.html" %}
+                       <br>
+                       <label class="md-nav__title" for="__drawer">
+     </label> 
+                     </div>
+                   </div>
+                 </div>
+               {% endif %}
+               {% if "toc.integrate" not in features %}
+                 {% if page.meta and page.meta.hide %}
+                   {% set hidden = "hidden" if "toc" in page.meta.hide %}
+                 {% endif %}
+                 <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" {{ hidden }}>
+                   <div class="md-sidebar__scrollwrap">
+                     <div class="md-sidebar__inner">
+                       {% include "partials/toc.html" %}
+                     </div>
+                   </div>
+                 </div>
+               {% endif %}
+             {% endblock %}
