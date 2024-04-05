@@ -129,9 +129,17 @@ nav:
         - Percona XtraBackup 2.3: percona-xtrabackup/Percona-XtraBackup-2.3.pdf
         - Percona XtraBackup 2.2: percona-xtrabackup/Percona-XtraBackup-2.2.pdf      
   - MongoDB Software:
-      - Percona Server for MongoDB: 
+      - Percona Distribution for MongoDB:
+        - Percona Distribution for MongoDB 4.4.29: percona-distribution-for-mongodb/Percona-Distribution-for-MongoDB-4.4.29.pdf
+        - Percona Distribution for MongoDB 4.2.25: percona-distribution-for-mongodb/Percona-Distribution-for-MongoDB-4.2.25.pdf
+      - Percona Server for MongoDB:
+        - Percona Server for MongoDB 4.4.29-28: percona-server-for-mongodb/Percona-Server-for-MongoDB-4.4.29-28.pdf 
+        - Percona Server for MongoDB 4.2.25-25: percona-server-for-mongodb/Percona-Server-for-MongoDB-4.2.25-25.pdf
         - Percona Server for MongoDB 4.0.28-23: percona-server-for-mongodb/Percona-Server-for-MongoDB_4.0.28-23.pdf
         - Percona Server for MongoDB 3.6.23-13: percona-server-for-mongodb/Percona-Server-for-MongoDB_3.6.23-13.pdf
+  - PostgreSQL Software:
+      - Percona Distribution for PostgreSQL:
+        - Percona Distribution for PostgreSQL 11.22: percona-distribution-for-postgresql/Percona-Distribution-for-PostgreSQL-11.22.pdf
   - Kubernetes Operators:
       - Percona Operator for MongoDB:
         - Percona Operator for MongoDB 1.14.0: percona-operator-for-mongodb/PerconaOperatorMongoDB-1.14.0.pdf
