@@ -149,6 +149,7 @@ nav:
         - Percona Distribution for PostgreSQL 11.22: percona-distribution-for-postgresql/Percona-Distribution-for-PostgreSQL-11.22.pdf
   - Kubernetes Operators:
       - Percona Operator for MongoDB:
+        - Percona Operator for MongoDB 1.16.1: percona-operator-for-mongodb/PerconaOperatorMongoDB-1.16.1.pdf
         - Percona Operator for MongoDB 1.16.0: percona-operator-for-mongodb/PerconaOperatorMongoDB-1.16.0.pdf
         - Percona Operator for MongoDB 1.15.0: percona-operator-for-mongodb/PerconaOperatorMongoDB-1.15.0.pdf
         - Percona Operator for MongoDB 1.14.0: percona-operator-for-mongodb/PerconaOperatorMongoDB-1.14.0.pdf
@@ -166,6 +167,7 @@ nav:
         - Percona Kubernetes Operator for Percona Server for MongoDB 1.2.0: percona-operator-for-mongodb/PerconaKubernetesOperatorPerconaServerMongoDB-1.2.0.pdf
         - Percona Kubernetes Operator for Percona Server for MongoDB 1.1.0: percona-operator-for-mongodb/PerconaKubernetesOperatorPerconaServerMongoDB-1.1.0.pdf
       - Percona Operator for MySQL based on Percona XtraDB Cluster:
+        - Percona Operator for MySQL based on Percona XtraDB Cluster 1.14.0: percona-operator-for-mysql-pxc/percona-operator-for-mysql-pxc-1.14.0.pdf
         - Percona Operator for MySQL based on Percona XtraDB Cluster 1.13.0: percona-operator-for-mysql-pxc/percona-operator-for-mysql-pxc-1.13.0.pdf
         - Percona Operator for MySQL based on Percona XtraDB Cluster 1.12.0: percona-operator-for-mysql-pxc/percona-operator-for-mysql-pxc-1.12.0.pdf
         - Percona Operator for MySQL based on Percona XtraDB Cluster 1.11.0: percona-operator-for-mysql-pxc/percona-kubernetes-operator-for-pxc-1.11.0.pdf
