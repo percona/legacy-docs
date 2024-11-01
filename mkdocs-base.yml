@@ -126,6 +126,7 @@ nav:
       - Percona Monitoring Plugins 1.1.8: percona-monitoring-plugins/Percona-Monitoring-Plugins-1.1.8.pdf
   - MySQL Software:
       - Percona Server for MySQL:
+        - Percona Server for MySQL Innovation: percona-server-for-mysql/Percona-Server-for-MySQL-8.3.pdf
         - Percona Server for MySQL 5.6: percona-server-for-mysql/Percona-Server-for-MySQL-5.6.pdf
         - Percona Server for MySQL 5.5: percona-server-for-mysql/Percona-Server-for-MySQL-5.5.pdf
         - Percona Server for MySQL 5.1: percona-server-for-mysql/Percona-Server-for-MySQL-5.1.pdf
