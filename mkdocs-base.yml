@@ -126,6 +126,7 @@ nav:
       - Percona Monitoring Plugins 1.1.8: percona-monitoring-plugins/Percona-Monitoring-Plugins-1.1.8.pdf
   - MySQL Software:
       - Percona Server for MySQL:
+        - Percona Server for MySQL Innovation: percona-server-for-mysql/Percona-Server-for-MySQL-8.3.pdf
         - Percona Server for MySQL 5.6: percona-server-for-mysql/Percona-Server-for-MySQL-5.6.pdf
         - Percona Server for MySQL 5.5: percona-server-for-mysql/Percona-Server-for-MySQL-5.5.pdf
         - Percona Server for MySQL 5.1: percona-server-for-mysql/Percona-Server-for-MySQL-5.1.pdf
@@ -137,9 +138,11 @@ nav:
         - Percona XtraBackup 2.2: percona-xtrabackup/Percona-XtraBackup-2.2.pdf      
   - MongoDB Software:
       - Percona Distribution for MongoDB:
+        - Percona Distribution for MongoDB 5.0.29: percona-distribution-for-mongodb/Percona-Distribution-for-MongoDB-5.0.29.pdf
         - Percona Distribution for MongoDB 4.4.29: percona-distribution-for-mongodb/Percona-Distribution-for-MongoDB-4.4.29.pdf
         - Percona Distribution for MongoDB 4.2.25: percona-distribution-for-mongodb/Percona-Distribution-for-MongoDB-4.2.25.pdf
       - Percona Server for MongoDB:
+        - Percona Server for MongoDB 5.0.29-25: percona-server-for-mongodb/Percona-Server-for-MongoDB-5.0.29-25.pdf
         - Percona Server for MongoDB 4.4.29-28: percona-server-for-mongodb/Percona-Server-for-MongoDB-4.4.29-28.pdf 
         - Percona Server for MongoDB 4.2.25-25: percona-server-for-mongodb/Percona-Server-for-MongoDB-4.2.25-25.pdf
         - Percona Server for MongoDB 4.0.28-23: percona-server-for-mongodb/Percona-Server-for-MongoDB_4.0.28-23.pdf
@@ -148,8 +151,9 @@ nav:
       - Percona Distribution for PostgreSQL:
         - Percona Distribution for PostgreSQL 11.22: percona-distribution-for-postgresql/Percona-Distribution-for-PostgreSQL-11.22.pdf
   - Kubernetes Operators:
-      - Percona Operator for MongoDB:      
+      - Percona Operator for MongoDB:
         - Percona Operator for MongoDB 1.17.0: percona-operator-for-mongodb/PerconaOperatorMongoDB-1.17.0.pdf
+        - Percona Operator for MongoDB 1.16.2: percona-operator-for-mongodb/PerconaOperatorMongoDB-1.16.2.pdf
         - Percona Operator for MongoDB 1.16.1: percona-operator-for-mongodb/PerconaOperatorMongoDB-1.16.1.pdf
         - Percona Operator for MongoDB 1.16.0: percona-operator-for-mongodb/PerconaOperatorMongoDB-1.16.0.pdf
         - Percona Operator for MongoDB 1.15.0: percona-operator-for-mongodb/PerconaOperatorMongoDB-1.15.0.pdf
@@ -168,6 +172,8 @@ nav:
         - Percona Kubernetes Operator for Percona Server for MongoDB 1.2.0: percona-operator-for-mongodb/PerconaKubernetesOperatorPerconaServerMongoDB-1.2.0.pdf
         - Percona Kubernetes Operator for Percona Server for MongoDB 1.1.0: percona-operator-for-mongodb/PerconaKubernetesOperatorPerconaServerMongoDB-1.1.0.pdf
       - Percona Operator for MySQL based on Percona XtraDB Cluster:
+        - Percona Operator for MySQL based on Percona XtraDB Cluster 1.15.0: percona-operator-for-mysql-pxc/percona-operator-for-mysql-pxc-1.15.0.pdf
+        - Percona Operator for MySQL based on Percona XtraDB Cluster 1.14.1: percona-operator-for-mysql-pxc/percona-operator-for-mysql-pxc-1.14.1.pdf
         - Percona Operator for MySQL based on Percona XtraDB Cluster 1.14.0: percona-operator-for-mysql-pxc/percona-operator-for-mysql-pxc-1.14.0.pdf
         - Percona Operator for MySQL based on Percona XtraDB Cluster 1.13.0: percona-operator-for-mysql-pxc/percona-operator-for-mysql-pxc-1.13.0.pdf
         - Percona Operator for MySQL based on Percona XtraDB Cluster 1.12.0: percona-operator-for-mysql-pxc/percona-operator-for-mysql-pxc-1.12.0.pdf
