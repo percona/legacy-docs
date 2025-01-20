@@ -97,8 +97,8 @@ markdown_extensions:
     custom_checkbox: true
   pymdownx.snippets:
       base_path: ["snippets"]
-      auto_append:
-        - services-banner.md
+#      auto_append:
+#        - services-banner.md
   pymdownx.highlight:
     use_pygments: true
   pymdownx.emoji:
@@ -120,6 +120,7 @@ plugins:
 
 nav:
   - Home: index.md
+  - get-help.md
   - Percona Monitoring and Management:
       - Percona Monitoring and Management 1.17.5: percona-monitoring-and-management/PerconaMonitoringAndManagement-1.17.5.pdf
   - Percona Monitoring Plugins:
