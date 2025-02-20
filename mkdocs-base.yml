@@ -136,7 +136,9 @@ nav:
         - Percona XtraDB Cluster 5.5: percona-xtradb-cluster/Percona-XtraDB-Cluster-5.5.pdf
       - Percona XtraBackup:
         - Percona XtraBackup 2.3: percona-xtrabackup/Percona-XtraBackup-2.3.pdf
-        - Percona XtraBackup 2.2: percona-xtrabackup/Percona-XtraBackup-2.2.pdf      
+        - Percona XtraBackup 2.2: percona-xtrabackup/Percona-XtraBackup-2.2.pdf
+      - ProxySQL:
+        - ProxySQL 1.x and Admin tool: proxysql/proxysql1.pdf
   - MongoDB Software:
       - Percona Distribution for MongoDB:
         - Percona Distribution for MongoDB 5.0.29: percona-distribution-for-mongodb/Percona-Distribution-for-MongoDB-5.0.29.pdf
