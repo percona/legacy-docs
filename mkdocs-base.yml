@@ -155,6 +155,7 @@ nav:
         - Percona Distribution for PostgreSQL 11.22: percona-distribution-for-postgresql/Percona-Distribution-for-PostgreSQL-11.22.pdf
   - Kubernetes Operators:
       - Percona Operator for MongoDB:
+        - Percona Operator for MongoDB 1.19.0: percona-operator-for-mongodb/PerconaOperatorMongoDB-1.19.0.pdf
         - Percona Operator for MongoDB 1.18.0: percona-operator-for-mongodb/PerconaOperatorMongoDB-1.18.0.pdf
         - Percona Operator for MongoDB 1.17.0: percona-operator-for-mongodb/PerconaOperatorMongoDB-1.17.0.pdf
         - Percona Operator for MongoDB 1.16.2: percona-operator-for-mongodb/PerconaOperatorMongoDB-1.16.2.pdf
