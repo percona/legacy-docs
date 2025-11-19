@@ -62,6 +62,7 @@ extra_css:
   - css/extra.css
   - css/osano.css
   - css/legacy.css
+  - css/rating.css
 
 #Copyright
 copyright: >
@@ -69,6 +70,7 @@ copyright: >
 
 extra_javascript:
   - js/consent.js
+  - js/rating.js
 
 markdown_extensions:
   attr_list: {}
@@ -116,7 +118,6 @@ plugins:
     enable_checks: false
     min_length: 50
     max_length: 160
-
 
 nav:
   - Home: index.md
