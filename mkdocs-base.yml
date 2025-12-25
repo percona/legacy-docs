@@ -204,6 +204,7 @@ nav:
         - Percona Kubernetes Operator for Percona XtraDB Cluster 1.2.0: percona-operator-for-mysql-pxc/percona-kubernetes-operator-for-pxc-1.2.0.pdf
         - Percona Kubernetes Operator for Percona XtraDB Cluster 1.1.0: percona-operator-for-mysql-pxc/percona-kubernetes-operator-for-pxc-1.1.0.pdf
       - Percona Operator for PostgreSQL:
+        - Percona Operator for PostgreSQL 2.8.2: percona-operator-for-postgresql/PerconaOperatorPostgreSQL-2.8.2.pdf
         - Percona Operator for PostgreSQL 2.8.1: percona-operator-for-postgresql/PerconaOperatorPostgreSQL-2.8.1.pdf
         - Percona Operator for PostgreSQL 2.8.0: percona-operator-for-postgresql/PerconaOperatorPostgreSQL-2.8.0.pdf
         - Percona Operator for PostgreSQL 2.7.0: percona-operator-for-postgresql/PerconaOperatorPostgreSQL-2.7.0.pdf
