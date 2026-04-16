@@ -186,6 +186,7 @@ nav:
         - Percona Kubernetes Operator for Percona Server for MongoDB 1.2.0: percona-operator-for-mongodb/PerconaKubernetesOperatorPerconaServerMongoDB-1.2.0.pdf
         - Percona Kubernetes Operator for Percona Server for MongoDB 1.1.0: percona-operator-for-mongodb/PerconaKubernetesOperatorPerconaServerMongoDB-1.1.0.pdf
       - Percona Operator for MySQL based on Percona XtraDB Cluster: 
+        - Percona Operator for MySQL based on Percona XtraDB Cluster 1.19.0: percona-operator-for-mysql-pxc/percona-operator-for-mysql-pxc-1.19.0.pdf
         - Percona Operator for MySQL based on Percona XtraDB Cluster 1.18.0: percona-operator-for-mysql-pxc/percona-operator-for-mysql-pxc-1.18.0.pdf
         - Percona Operator for MySQL based on Percona XtraDB Cluster 1.17.0: percona-operator-for-mysql-pxc/percona-operator-for-mysql-pxc-1.17.0.pdf
         - Percona Operator for MySQL based on Percona XtraDB Cluster 1.16.0: percona-operator-for-mysql-pxc/percona-operator-for-mysql-pxc-1.16.0.pdf
