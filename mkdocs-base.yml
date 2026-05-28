@@ -56,14 +56,12 @@ theme:
 extra_css:
   - https://unicons.iconscout.com/release/v3.0.3/css/line.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css
-  - css/percona.css
   - css/nocopy.css
   - css/design.css
   - css/extra.css
   - css/osano.css
   - css/legacy.css
   - css/rating.css
-  - css/kapa.css
 
 #Copyright
 copyright: >
@@ -72,7 +70,6 @@ copyright: >
 extra_javascript:
   - js/consent.js
   - js/rating.js
-  - js/kapa.js
 
 markdown_extensions:
   attr_list: {}
@@ -113,8 +110,6 @@ markdown_extensions:
         - _resource/.icons
 
 plugins:
-  search: 
-    separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   git-revision-date: {}
   meta-descriptions:
     export_csv: false
