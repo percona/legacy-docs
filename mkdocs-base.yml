@@ -63,14 +63,16 @@ extra_css:
   - css/osano.css
   - css/legacy.css
   - css/rating.css
+  - css/kapa.css
 
 #Copyright
 copyright: >
-  "<a href='https://www.percona.com/about'>Percona LLC</a> and/or its affiliates &copy; 2009-<script>document.write(new Date().getFullYear())</script> — <a href='#__consent'>Cookie Consent</a>"
+  "<a href='https://www.percona.com/about'>Percona LLC</a> and/or its affiliates &copy; 2026-<script>document.write(new Date().getFullYear())</script> — <a href='#__consent'>Cookie Consent</a>"
 
 extra_javascript:
   - js/consent.js
   - js/rating.js
+  - js/kapa.js
 
 markdown_extensions:
   attr_list: {}
@@ -111,6 +113,8 @@ markdown_extensions:
         - _resource/.icons
 
 plugins:
+  search: 
+    separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   git-revision-date: {}
   meta-descriptions:
     export_csv: false
