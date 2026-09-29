@@ -10,14 +10,3 @@
       font-size: 0.65rem;   /* Font size */
       line-height: 1.6;
   }
-
-/* Percona live announcement banner */
-
-.md-banner {
-  text-align: center;
-}
-
-.md-banner,
-.md-banner * {
-  font-family: "Poppins", sans-serif !important;
-}
